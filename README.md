@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-JLU的Software Engineering-er，ai 时代落后者，<br>古法编程爱好者，正进步 ing
+JLU的Software Engineering-er，ai 时代落后者，<br>古法编程爱好者，进步 ing
 
 # 💻 Tech Stack:
 
